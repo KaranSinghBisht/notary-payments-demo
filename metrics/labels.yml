@@ -1,3 +1,3 @@
 # latency metric labels
-route_label: route
+route_label: http_route
 service_label: service
