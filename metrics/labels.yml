@@ -1,0 +1,3 @@
+# latency metric labels
+route_label: route
+service_label: service
